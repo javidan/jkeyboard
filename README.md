@@ -1,3 +1,6 @@
+
+![jKeyboard](http://javidan.github.io/jkeyboard/images/keyboard.jpg)
+
 This is simple jQuery on screen keyboard.
 
 usage:
