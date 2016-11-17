@@ -41,7 +41,7 @@
 			&.uppercase{
 				text-transform:uppercase;
 			}
-			&:hover, &.active{
+			&:hover, &:active{
 				background-color:#185a82
 			}
 		}
