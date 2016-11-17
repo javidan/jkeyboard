@@ -37,7 +37,7 @@
 .jkeyboard .jline ul li.uppercase {
   text-transform: uppercase;
 }
-.jkeyboard .jline ul li:hover, .jkeyboard .jline ul li.active {
+.jkeyboard .jline ul li:hover, .jkeyboard .jline ul li:active {
   background-color: #185a82;
 }
 .jkeyboard .jline .return {
