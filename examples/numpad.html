@@ -37,6 +37,13 @@
           layout: "numbers_only",
           input: $('#input_field_1')
         });
+
+
+        $(".input_box").focus(function() {
+            $('#keyboard').jkeyboard("setInput", this);
+        });
+
+
     </script>
 </body>
 </html>
