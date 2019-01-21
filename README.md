@@ -14,7 +14,6 @@ A simple jQuery on screen keyboard.
 
 #### 1.1. Installation
 
-- [Download ZIP](https://github.com/digvijayad/jkeyboard/archive/master.zip)
 - First, copy and paste `lib/js/keyboard.js` in your project, and link to it before the closing `</body>` element. Make sure jquery is linked before this.
 - Next, you'll need to copy and paste the plugin's css into your project. Both Scss and Css are included for flexibility and modifications.
 - Lastly, link to the keyboard css file `jkeyboard.css` file before the closing `</head>` element.
