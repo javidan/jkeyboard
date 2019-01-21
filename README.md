@@ -1,6 +1,9 @@
 
 ![jKeyboard](http://javidan.github.io/jkeyboard/images/keyboard.jpg)
 
+[See In Action](http://javidan.github.io/jkeyboard/examples/index.htm)
+
+
 # JKeyboard
 
 A simple jQuery on screen keyboard.
