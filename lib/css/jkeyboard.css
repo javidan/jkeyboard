@@ -56,6 +56,12 @@
   width: 100px;
   background: url("../assets/shift.png") no-repeat center center;
 }
+.jkeyboard .jline .shift.active {
+  border-color: #fff;
+}
+.jkeyboard .jline .shift.lock {
+  transform: rotate(180deg);
+}
 .jkeyboard .jline .backspace {
   width: 69px;
   background: url("../assets/backspace.png") no-repeat center center;
